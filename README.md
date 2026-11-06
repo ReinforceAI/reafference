@@ -5,7 +5,7 @@
 A robot derives which part of its visual field is its own body, using no markers, no CAD
 model, no training, and no prior images of itself.
 
-**[Read the paper](paper.pdf)**
+**[Read the paper](reinforceAI-reafference.pdf)**
 
 ---
 
@@ -71,7 +71,7 @@ and a useful capability falls out of it.
 ## Contents
 
 ```
-paper.pdf     the paper, 12 pages
+reinforceAI-reafference.pdf    the paper, 12 pages
 ```
 
 ## Citation
